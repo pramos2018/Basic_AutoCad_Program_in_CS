@@ -1,0 +1,10 @@
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\bin\Debug\BasicAutoCadApp.exe.config
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\bin\Debug\BasicAutoCadApp.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\bin\Debug\BasicAutoCadApp.pdb
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\BasicAutCadApp.csprojAssemblyReference.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\NS_BasicAutoCadApp.BasicAutoCadApp.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\BasicAutoCadApp.Properties.Resources.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\BasicAutCadApp.csproj.GenerateResource.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\BasicAutCadApp.csproj.CoreCompileInputs.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\BasicAutoCadApp.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\BasicAutoCadApp.pdb

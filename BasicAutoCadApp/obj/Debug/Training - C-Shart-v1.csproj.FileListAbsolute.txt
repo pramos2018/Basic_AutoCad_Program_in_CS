@@ -1,0 +1,40 @@
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\bin\Debug\Training - C-Shart-v1.exe.config
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\bin\Debug\Training - C-Shart-v1.exe
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\bin\Debug\Training - C-Shart-v1.pdb
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training - C-Shart-v1.csprojResolveAssemblyReference.cache
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.Form1.resources
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.Form2.resources
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.Properties.Resources.resources
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training - C-Shart-v1.csproj.GenerateResource.Cache
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training - C-Shart-v1.exe
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training - C-Shart-v1.pdb
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.Form3.resources
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.Form4.resources
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.Form5.resources
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.Form6.resources
+C:\Users\cliente\Documents\Visual Studio 2012\Projects\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.Form7.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training - C-Shart-v1.csprojAssemblyReference.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.MainMenu.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.BasicCalculator.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.BasicTicTacToe.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.BasicVisiCalcApp.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.BasicPaintApp.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.BasicAutoCadApp.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.Properties.Resources.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training - C-Shart-v1.csproj.GenerateResource.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training - C-Shart-v1.csproj.CoreCompileInputs.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training - C-Shart-v1.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\bin\Debug\Training - C-Shart-v1.exe.config
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\bin\Debug\Training - C-Shart-v1.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\bin\Debug\Training - C-Shart-v1.pdb
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Training - C-Shart-v1\Training - C-Shart-v1\obj\Debug\Training - C-Shart-v1.pdb
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\Training - C-Shart-v1.csprojAssemblyReference.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\Training___C_Shart_v1.BasicAutoCadApp.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\Training - C-Shart-v1.csproj.GenerateResource.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\Training - C-Shart-v1.csproj.CoreCompileInputs.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\bin\Debug\BasicAutoCadApp.exe.config
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\bin\Debug\BasicAutoCadApp.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\bin\Debug\BasicAutoCadApp.pdb
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\BasicAutoCadApp.Properties.Resources.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\BasicAutoCadApp.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic AutoCad App C#\Training - C-Shart-v1\obj\Debug\BasicAutoCadApp.pdb
